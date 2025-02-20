@@ -66,6 +66,13 @@ docker-next-laravelのひな形
     php artisan migrate
     ```
 
+## URL
+
+- next : http://localhost:3000
+- larael : http://localhost:8080
+- phpMyAdmin : http://localhost:8081
+
+
 ## リモートリポジトリとの紐付けを解除 
 ```
 git remote remove origin
