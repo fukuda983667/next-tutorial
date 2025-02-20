@@ -1,6 +1,4 @@
-# docker-next-laravel
-
-docker-next-laravelのひな形
+# next-tutorial
 
 ## 環境構築
 
